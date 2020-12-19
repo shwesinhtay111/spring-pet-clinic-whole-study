@@ -27,6 +27,11 @@ Steps
     25. Add missing i18n properties files
     26. Create Pet Type, Pet, and Visit Entities
 
+Issuse Create and Closes
+=========================
+     . Issuse Create in Issues=> New Issue
+     . Issuse Close by Commit Message , " commit message. Closes #issueNo "
+     
 Custom Banner Adding Notes
 ==========================
     . Add a banner image under template folder
